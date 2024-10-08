@@ -33,15 +33,17 @@
 - Choose the **Final Job Posting Template**.
 - Click **Insert** and then **Apply**.
 
-![Template Library](/Users/your-username/Downloads/screenshot5.png)
+![Classic Editor Form](Screenshots/Screenshot8.png)
+![Classic Editor Form](Screenshots/Screenshot9.png)
 
 ## Step 6
 - After the theme is applied, edit the required details.
 
-![Editing Job Details](/Users/your-username/Downloads/screenshot6.png)
+![Classic Editor Form](Screenshots/Screenshot10.png)
+![Classic Editor Form](Screenshots/Screenshot11.png)
 
 ## Step 7
 - Choose the **Final Job Posting Template** again, click **Insert**, and then **Apply**.
 
-![Applying Template](/Users/your-username/Downloads/screenshot7.png)
+![Classic Editor Form](Screenshots/Screenshot12.png)
 
